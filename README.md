@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donguk Kwon</h1>
 <h3 align="center">MS/PhD Student</h3>
 
-- 🔭 I’m currently working on [Yonsei DLI Lab](https://diyonsei.notion.site/)
+- 🔭 I’m currently working on [Yonsei DLI Lab](https://dli.yonsei.ac.kr)
 
 - 🧑🏻‍🎓 Yonsei University B.S. in Computer Science and Enginnering [2020147570](https://github.com/2020147570)
 
